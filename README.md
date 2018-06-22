@@ -1,4 +1,5 @@
 # twistedgate.github.io
-Useless Readme?
+
+The thing for my github page thing.
 
 http://twistedgate.github.io/
