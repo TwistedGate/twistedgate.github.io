@@ -1,6 +1,6 @@
 #ban{
 	z-index:1;
-	width:1024px;
+	width:1240px;
 	height:133px;
 	position:absolute;
 	vertical-align:middle;
@@ -22,7 +22,7 @@
 #nav{
 	z-index:2;
 	width:133px;
-	height:850px;
+	height:710px;
 	top:154px;
 	position:absolute;
 	padding-top:5px;
