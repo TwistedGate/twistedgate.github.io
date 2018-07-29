@@ -1,0 +1,17 @@
+#base{
+	text-align:center;
+	font-size:15px;
+}
+
+#err-text{
+	font-size:30px;
+	color: #AF0000;
+    border-style: solid;
+    border-width: 1px;
+    border-left: #1e1e1e;
+    border-right: #1e1e1e;
+}
+
+#backlink{
+	color:#00AF00;
+}

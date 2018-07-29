@@ -25,7 +25,9 @@
 	height:710px;
 	top:154px;
 	position:absolute;
-	padding-top:5px;
 	padding-left:5px;
+	padding-right: 5px;
+	padding-top:5px;
+	padding-bottom: 5px;
 	background-color:#171717;
 }
