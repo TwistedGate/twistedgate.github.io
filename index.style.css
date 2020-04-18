@@ -1,12 +1,17 @@
 #ban{
 	z-index:1;
-	width:1264px;
+	width:97%;
 	height:133px;
 	position:absolute;
-	vertical-align:middle;
 	padding-top:5px;
 	padding-left:5px;
 	background-color:#171717;
+	
+	border-top:ridge;
+	border-bottom:ridge;
+	border-color:#7F7F7F;
+	border-width:4px;
+	border-radius:10px;
 }
 
 #ban-text{
@@ -15,19 +20,27 @@
 	height:auto;
 	top:0px;
 	left:440px;
-	text-align:center;
 	position:absolute;
+	text-align:center;
+	text-shadow:0px 0px 12px #fff;
 }
 
 #nav{
 	z-index:2;
+	top:158px;
 	width:133px;
-	height:710px;
-	top:154px;
+	height:512px;
 	position:absolute;
 	padding-left:5px;
-	padding-right: 5px;
+	padding-right:5px;
 	padding-top:5px;
-	padding-bottom: 5px;
+	padding-bottom:5px;
 	background-color:#171717;
+	text-align:center;
+	
+	border-left:ridge;
+	border-right:ridge;
+	border-color:#7F7F7F;
+	border-width:4px;
+	border-radius:10px;
 }
