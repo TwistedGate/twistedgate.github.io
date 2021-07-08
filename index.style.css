@@ -1,42 +1,42 @@
-#ban{
-	z-index:1;
-	width:97%;
-	height:133px;
-	position:absolute;
-	padding-top:5px;
-	padding-left:5px;
+nav{
+	color:#7F7F7F;
 	background-color:#171717;
 	
 	border-top:ridge;
 	border-bottom:ridge;
-	border-color:#7F7F7F;
 	border-width:4px;
 	border-radius:10px;
 }
 
-#ban-text{
-	z-index:1;
-	width:auto;
-	height:auto;
-	top:0px;
-	left:440px;
-	position:absolute;
+#nav-text{
 	text-align:center;
-	text-shadow:0px 0px 12px #fff;
+	text-shadow:0px 0px 1px;
 }
 
-#nav{
-	z-index:2;
+#CLI{
+	color:#50ec95;
+	font-family:unispace;
+	font-size:75px;
+	text-shadow:0px 0px 3px;
+	
+	margin-top:5px;
+	margin-right:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+}
+
+#ban{
 	top:158px;
 	width:133px;
 	height:512px;
 	position:absolute;
+	background-color:#171717;
+	text-align:center;
+	
 	padding-left:5px;
 	padding-right:5px;
 	padding-top:5px;
 	padding-bottom:5px;
-	background-color:#171717;
-	text-align:center;
 	
 	border-left:ridge;
 	border-right:ridge;
